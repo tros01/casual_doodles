@@ -1,2 +1,3 @@
-# casual_doodles
-Small projects answering interesting questions.
+# Casual doodles
+
+This is a repo for small projects answering interesting questions.
