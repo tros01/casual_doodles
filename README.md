@@ -1,8 +1,6 @@
 # Casual doodles
 
-<div border-style: inset;>
 *This is a repo for small projects answering interesting questions.*
-</div>
 
 ### Are we getting wetter as well as hotter? A look at extreme precipitation in England and Wales
 
